@@ -1,0 +1,7 @@
+{
+  "name": "Road Safety Intervention GPT",
+  "description": "An AI-powered tool that analyzes road safety scenarios and generates actionable, categorized interventions to improve safety. Users can input custom scenarios or choose from predefined examples to receive short-term and long-term solutions with impact scores.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
